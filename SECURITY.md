@@ -1,6 +1,6 @@
 # Using TensorFlow Securely
 
-This document discusses the TensorFlow security model. It describes the security
+This  discusses the TensorFlow security model. It describes the security
 risks to consider when using models, checkpoints or input data for training or
 serving. We also provide guidelines on what constitutes a vulnerability in
 TensorFlow and how to report them.
